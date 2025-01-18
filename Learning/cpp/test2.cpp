@@ -7,7 +7,7 @@ private:
     double l, w;
 
 public:
-    static const int n=100;
+    static const int n = 100;
     friend istream &operator>>(istream &in, Rect &operand)
     {
         cout << "Input >> " << endl;
