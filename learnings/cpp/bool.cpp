@@ -1,11 +1,8 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main()
 {
-  bool x = true;
-
-  cout << (x ? "yeah" : "nope") << endl;
-
+  cout << boolalpha << ("" == 0) << endl;
   return 0;
 }

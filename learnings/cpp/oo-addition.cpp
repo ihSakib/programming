@@ -7,7 +7,6 @@ private:
     double l, w;
 
 public:
-    static const int n = 100;
     friend istream &operator>>(istream &in, Rect &operand)
     {
         cout << "Input >> " << endl;
@@ -36,21 +35,20 @@ public:
 
         return temp;
     }
-
 };
 
 int main()
 {
-    // Rect r1, r2, r3;
-    // cin >> r1;
-    // cout << r1;
-    // cin >> r2;
-    // cout << r2;
+    Rect r1, r2, r3;
 
-    // r3 = r1 + r2;
-    // cout << r3;
+    cin >> r1;
+    cout << r1;
 
-    cout<<Rect::n;
+    cin >> r2;
+    cout << r2;
+
+    r3 = r1 + r2;
+    cout << r3;
 
     return 0;
 }

@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    char x = 65;
-    cout<<x;
-    
+    char x = 65; // ascii character
+    cout << x;
+
     return 0;
 }
