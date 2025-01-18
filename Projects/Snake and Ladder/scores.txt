@@ -1,0 +1,108 @@
+Score Board
+------------------
+Tue Feb 13 14:05:29 2024
+Game mode: Limited round mode
+Number of round: 2
+Player 1 name: Tom
+Player 2 name: Cat
+Player 1 score: 2
+Player 2 score: 3
+Result: Cat wins!
+
+
+Score Board
+------------------
+Wed Feb 14 09:40:31 2024
+Game mode: Limited round mode
+Number of round: 2
+Player 1 name: Mr Fox
+Player 2 name: Mr Cat
+Player 1 score: 2
+Player 2 score: 2
+Result: Draw! Play again
+
+
+Score Board
+------------------
+Fri Feb 16 15:22:18 2024
+Game mode: Limited round mode
+Number of round: 4
+Player 1 name: Iftekhar
+Player 2 name: Tom
+Player 1 score: 3
+Player 2 score: 6
+Result: Tom wins!
+
+
+Score Board
+------------------
+Wed Mar 06 17:27:33 2024
+Game mode: Limited round mode
+Number of round: 2
+Player 1 name: ss
+Player 2 name: d
+Player 1 score: 6
+Player 2 score: 1
+Result: ss wins!
+
+
+Score Board
+------------------
+Wed Mar 13 10:48:52 2024
+Game mode: Limited round mode
+Number of round: 2
+Player 1 name: fdf
+Player 2 name: fdf
+Player 1 score: 2
+Player 2 score: 5
+Result: fdf wins!
+
+
+Score Board
+------------------
+Wed Mar 13 10:56:03 2024
+Game mode: Limited round mode
+Number of round: 5
+Player 1 name: tupi
+Player 2 name: abir
+Player 1 score: 42
+Player 2 score: 5
+Result: tupi wins!
+
+
+Score Board
+------------------
+Mon Jul 01 00:35:53 2024
+Game mode: Limited round mode
+Number of round: 6
+Player 1 name: Heda
+Player 2 name: bal
+Player 1 score: 10
+Player 2 score: 10
+Result: Draw! Play again
+
+
+Score Board
+------------------
+Mon Jul 01 00:44:42 2024
+Game mode: Limited round mode
+Number of round: 4
+Player 1 name: gyut
+Player 2 name: bhh
+Player 1 score: 3
+Player 2 score: 9
+Result: bhh wins!
+
+
+Score Board
+------------------
+Mon Jul 01 00:47:05 2024
+Game mode: Limited round mode
+Number of round: 2
+Player 1 name: dew
+Player 2 name: fg
+Player 1 score: 1
+Player 2 score: 5
+Result: fg wins!
+
+

@@ -1,0 +1,10 @@
+| **Ruler / Movement**              | **Reign / Period**        | **Description**                                              |
+|-----------------------------------|---------------------------|--------------------------------------------------------------|
+| **British East India Company**    | 1757–1858                 | After the Battle of Plassey (1757), the British East India Company controlled Bengal, using it as a base for expanding British rule in India. |
+| **British Crown (Direct Rule)**   | 1858–1947                 | Following the Indian Rebellion of 1857, direct control of Bengal and India was transferred to the British Crown, marking the beginning of the British Raj. |
+| **Governors and Lieutenant Governors** | 1757–1912             | The British administration in Bengal was overseen by various Governors and Lieutenant Governors, who governed the province on behalf of the British Crown. |
+| **Bengal Presidency**             | 1765–1912                 | Bengal Presidency was a vast administrative region that included present-day Bengal, Bihar, and Odisha, governed by the British. |
+| **Partition of Bengal (1905)**    | 1905–1911                 | Lord Curzon, Viceroy of India, partitioned Bengal into East Bengal and Assam and West Bengal to improve administrative efficiency; sparked significant protests. |
+| **Bengal Renaissance**            | Late 19th - Early 20th century | Bengal experienced a cultural renaissance during this period, fostering literary, artistic, and social reforms, contributing to the Indian independence movement. |
+| **Partition of Bengal (1947)**    | 1947                      | Bengal was again partitioned based on religious lines in 1947, leading to the creation of East Bengal (later East Pakistan, now Bangladesh) and West Bengal (part of India); marked by significant communal violence and displacement. |
+| **Indian Independence Movement**  | Late 19th - Mid 20th century | Bengal played a pivotal role in the Indian independence movement, with leaders like Rabindranath Tagore, Subhas Chandra Bose, and others from the region contributing significantly to the cause. |
