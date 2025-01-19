@@ -1,1 +1,2 @@
-console.log("Hello world!");
+// type coercion
+console.log([] == 0);

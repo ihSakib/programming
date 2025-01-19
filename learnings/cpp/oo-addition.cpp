@@ -7,33 +7,24 @@ private:
     double l, w;
 
 public:
+    Rect(double l = 0, double w = 0) : l(l), w(w) {}
+
     friend istream &operator>>(istream &in, Rect &operand)
     {
-        cout << "Input >> " << endl;
-        cout << "Length: ";
-        in >> operand.l;
-        cout << "Width: ";
-        in >> operand.w;
-        cout << endl;
+        in >> operand.l >> operand.w;
+
         return in;
     }
 
     friend ostream &operator<<(ostream &out, Rect &operand)
     {
-        cout << "Output << " << endl;
-        cout << "Length: " << operand.l << endl
-             << "Width: " << operand.w << endl;
-        cout << endl;
+        cout << operand.l << " " << operand.w;
         return out;
     }
 
     Rect operator+(Rect &operand)
     {
-        Rect temp;
-        temp.l = l + operand.l;
-        temp.w = w + operand.w;
-
-        return temp;
+        return Rect(l + operand.l, w + operand.w);
     }
 };
 
@@ -41,13 +32,17 @@ int main()
 {
     Rect r1, r2, r3;
 
+    cout << "Give first rectangle length and width: ";
     cin >> r1;
-    cout << r1;
 
+    cout << "Give second rectangle length and width: ";
     cin >> r2;
-    cout << r2;
 
+    cout << "Summing..." << endl;
     r3 = r1 + r2;
+    // r3 = r1.operator+(r2);  // This also works
+
+    cout << "Sum of the rectangles: ";
     cout << r3;
 
     return 0;

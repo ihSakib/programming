@@ -5,7 +5,7 @@ int main(int argc, char const *argv[])
     freopen(__FILE__, "r", stdin);
 
     // read each character of source file until EOF
-    int ch;
+    char ch;
     while (scanf("%c", &ch) != EOF)
     {
         printf("%c", ch);
