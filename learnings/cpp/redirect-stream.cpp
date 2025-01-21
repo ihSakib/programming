@@ -31,7 +31,7 @@ int main()
     ;
   }
 
-  // Reset stdout to the original output
+  // Reset stdout to the original output for windows
   freopen("CON", "w", stdout);
 
   cout << "Hey Terminal" << endl;

@@ -1,8 +1,8 @@
 #include <stdio.h>
-int main(int argc, char const *argv[])
+int main()
 {
   // redirect stdin to source file
-  freopen("docs/result.txt", "a", stdout);
+  freopen(__FILE__, "w", stdout);
 
   // read each character of source file until EOF
   // char ch;
@@ -11,7 +11,12 @@ int main(int argc, char const *argv[])
   //   printf("%c", ch);
   // }
 
-  
+  printf("Hello, World!\n");
+
+  freopen("CON", "w", stdout);
+
+  printf("Hey Terminal\n");
 
   return 0;
 }
+
