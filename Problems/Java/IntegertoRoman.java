@@ -28,7 +28,8 @@ public class IntegertoRoman {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt();
-        String romanValue = Solution.intToRoman(num);
+        String romanValue = IntegertoRoman.intToRoman(num);
         System.out.println(romanValue);
+        scanner.close();
     }
 }

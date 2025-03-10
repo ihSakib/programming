@@ -12,7 +12,7 @@ int main()
 
   delete ptr; 
 
-  cout << *ptr << endl; // give garbage
+  cout << *ptr << endl; // dangling pointer
 
   return 0;
 }

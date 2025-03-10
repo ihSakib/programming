@@ -15,9 +15,9 @@ int main()
   }
 
   // Get the size of the file
-  inputFile.seekg(0, ios::end);           // Move the file pointer to the end
-  streampos fileSize = inputFile.tellg(); // Get the current position (file size)
-  inputFile.seekg(0, ios::beg);           // Move the file pointer back to the beginning
+  inputFile.seekg(0, ios::end);
+  streampos fileSize = inputFile.tellg();
+  inputFile.seekg(0, ios::beg);
 
   // Create a buffer to store the binary data
   char *buffer = new char[fileSize];
@@ -36,7 +36,7 @@ int main()
   // Print out a message indicating the file was read successfully
   cout << "File read successfully. The size of the file is: " << fileSize << " bytes." << endl;
 
-  // Optional: Write the data back to a new file 
+  // Optional: Write the data back to a new file
   ofstream outputFile("copy_image.jpg", ios::binary);
   if (!outputFile)
   {
@@ -44,6 +44,7 @@ int main()
     delete[] buffer;
     return 1;
   }
+  
   outputFile.write(buffer, fileSize);
   outputFile.close();
 
